@@ -1,5 +1,5 @@
 # scrapy
-This repository contains the code and notes I wrote while learning Scrapy for Web Scraping.
+This repository contains the code and notes I wrote while learning scrapy for web scraping.
 <br>
 <br>
 <br>
