@@ -1,5 +1,5 @@
 # scrapy
-This repository contains the code and notes I wrote while learning scrapy for web scraping.
+This repository contains the code and notes I wrote while learning scrapy for web scraping and data extraction.
 <br>
 <br>
 #### Acknowledgements:
